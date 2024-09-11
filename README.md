@@ -11,4 +11,4 @@ In my free time, I love reading fiction novels and spending time with my puppy.
 
 ### Navigation
 
-[Work Experience](work-experience.html) | [Projects](projects.html) | [Contact](contact.html) | [Assignments](assignments.html)
+[Work Experience](work-experience.html) | [Projects](projects.html) | [Contact](contact.html) | [Assignments](assignments)
