@@ -1,4 +1,5 @@
-# Data Science Student @ Boston University
+# Data Science Student
+## Boston University 
 
 ### About Me
 
