@@ -3,8 +3,8 @@ layout: default
 title: Projects
 ---
 
-<h1>Projects</h1>
-<p>Showcase the projects you've worked on, with descriptions and links to GitHub repositories.</p>
+# Projects
+Showcase the projects you've worked on, with descriptions and links to GitHub repositories.
 
 ### Navigation
 

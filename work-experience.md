@@ -3,8 +3,8 @@ layout: default
 title: Work Experience
 ---
 
-<h1>Work Experience</h1>
-<p>List your previous work experiences, roles, and achievements here.</p>
+# Work Experience
+List your previous work experiences, roles, and achievements here.
 
 ### Navigation
 

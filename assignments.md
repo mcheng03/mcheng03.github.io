@@ -6,10 +6,8 @@ title: Assignments
 # BU CS 506 Assignments
 
 ## Website Creation
-I built this website using the Minimal theme from Jekyll with the help of ChatGPT, which guided me through the process of setting up and customizing the site. 
-I created a GitHub Pages repository named mcheng03.github.io to host my personal website, which automatically configured GitHub Pages to serve the site.
-I installed and customized the Minimal theme by adding it to my Jekyll configuration (_config.yml). This provided a straightforward layout that includes sections like About Me, Work Experience, Projects, Contact, and Assignments.
-I added a personal touch by including my profile picture, a quote, and styled buttons that link to my GitHub repositories. 
+I built this website using the Minimal theme from Jekyll with the help of ChatGPT, which guided me through the process of setting up and customizing the site. I created a GitHub Pages repository named mcheng03.github.io to host my personal website, which automatically configured GitHub Pages to serve the site. I installed and customized the Minimal theme by adding it to my Jekyll configuration (_config.yml). This provided a straightforward layout that includes sections like About Me, Work Experience, Projects, Contact, and Assignments. I added a personal touch by including my profile picture, a quote, and styled buttons that link to my GitHub repositories. 
+
 [![GitHub Link](https://img.shields.io/badge/GitHub-Link-blue?style=for-the-badge&logo=github)](https://github.com/mcheng03/mcheng03.github.io/)
 
 ---

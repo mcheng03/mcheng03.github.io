@@ -3,8 +3,8 @@ layout: default
 title: Contact
 ---
 
-<h1>Contact</h1>
-<p>Provide your contact details here, such as your email and LinkedIn profile.</p>
+# Contact
+Provide your contact details here, such as your email and LinkedIn profile.
 
 ### Navigation
 
