@@ -1,8 +1,3 @@
----
-layout: default
-title: Assignments
----
-
 # BU CS 506 Assignments
 
 ## Website Creation

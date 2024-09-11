@@ -1,8 +1,3 @@
----
-layout: default
-title: Contact
----
-
 # Contact
 Provide your contact details here, such as your email and LinkedIn profile.
 

@@ -1,8 +1,3 @@
----
-layout: default
-title: Work Experience
----
-
 # Work Experience
 List your previous work experiences, roles, and achievements here.
 

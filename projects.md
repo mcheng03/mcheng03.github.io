@@ -1,8 +1,3 @@
----
-layout: default
-title: Projects
----
-
 # Projects
 Showcase the projects you've worked on, with descriptions and links to GitHub repositories.
 
