@@ -8,7 +8,7 @@ I built this website using the Minimal theme from Jekyll with the help of ChatGP
 ---
 
 ## Assignment 0
-
+The purpose of this assignment was to practice submitting assignments for the course using Git and Github. I created a Python script that adds two numbers together and prints their sum to the command line. I added the script to the staging area (git add), commited my changes with a message (git commit), and finally pushed my code to the designated repository (git push origin main). The link can be found below:
 
 [![Github Link](https://img.shields.io/badge/GitHub-Link-blue?style=for-the-badge&logo=github)](https://github.com/mcheng03/mchg-assignment-0)
 
