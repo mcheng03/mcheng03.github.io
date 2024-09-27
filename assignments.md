@@ -22,7 +22,7 @@ In this assignment, the CS 506 class collectively recorded a dataset with elevat
 ---
 
 ## Assignment 2
-insert description here
+In this assignment, I developed an interactive web application that showcases the k-means clustering algorithm using various methods. The code can randomly place centroids, perform farthest first initialization, carry out k-means++, and allow the user to manually place centroids in the beginning instead. Users can visualize the clustering process on a 2D plot, watching as data points and centroids are assigned to clusters. The interface includes options to generate new random datasets, step through the algorithm, jump to convergence, and reset for trying different methods. The link can be found below:
 
 [![Github Link](https://img.shields.io/badge/GitHub-Link-blue?style=for-the-badge&logo=github)](https://github.com/mcheng03/mchg-assignment-2)
 
